@@ -15,13 +15,13 @@ description: Personal Web Page that will include projects. Feel free to bookmark
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Project:
-    - Machine Learning: "http://deanattali.com/beautiful-jekyll/"
-    - Cybersecurity: "http://www.markdowntutorial.com/"
-    - Robotics: "https://pages.github.com/"
   CV: "http://deanattali.com"
-
+  Project:
+    - Machine Learning: ""
+    - Cybersecurity: ""
+    - Robotics: ""
+  About Me: "aboutme"
+  
 # Image to show in the navigation bar
 avatar: "/img/logo.png"
 
