@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-subtitle: This is the most important that I have do in four years of University.
+subtitle: This is the most important that I have done in four years of University now.
 ---
 
-![Resume](/img/resume.png)
+![Resume](https://github.com/saj11/saj11.github.io/blob/master/img/Resume.png)
