@@ -15,7 +15,7 @@ description: Personal Web Page that will include projects. Feel free to bookmark
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "http://deanattali.com"
+  Resume: ""
   Project:
     - Machine Learning: ""
     - Cybersecurity: ""
@@ -33,7 +33,7 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#46F7FE"
+link-col: "#0633C6"
 hover-col: "#3ED7FD"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
@@ -55,7 +55,7 @@ share-links-active:
   linkedin: true
 
 # How to display the link to the website in the footer
-url-pretty: "joshsa1197@gmail.com"
+#url-pretty: "joshsa1197@gmail.com"
 
 # --- Misc --- #
 
