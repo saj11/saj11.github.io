@@ -15,7 +15,7 @@ description: Personal Web Page that will include projects. Feel free to bookmark
 
 # List of links in the navigation bar
 navbar-links:
-  Resume: ""
+  Resume: "resume"
   Project:
     - Machine Learning: ""
     - Cybersecurity: ""
@@ -53,6 +53,8 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   linkedin: true
+  facebook: true
+  twitter: true
 
 # How to display the link to the website in the footer
 #url-pretty: "joshsa1197@gmail.com"
