@@ -20,7 +20,7 @@ navbar-links:
     - Machine Learning: ""
     - Cybersecurity: ""
     - Robotics: ""
-      - Others: ""
+    - Others: ""
   Summer-Schools Attended:
     - HPC(High Performance Computer): "HPC-2017"
     - Big Data: "BigData-2017"
