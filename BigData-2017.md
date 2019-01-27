@@ -5,7 +5,7 @@ subtitle: Learning Python, R, Spark, Hadoop
 tags: [bigdata]
 ---
 
-#Instructors
+# Instructors
 
 * Ph.D. Mahidhar Tatineni (User Support Group Lead at San Diego Supercomputer Center)
 * Ph.D. Robert Sinkovits (Applications Lead for the Gordon project at San Diego Supercomputer Center)
@@ -19,6 +19,6 @@ tags: [bigdata]
 * Data Analysis with Spark
 * Hadoop: Introduction and Deep Dive 
 
-#Repository
+# Repository
 
 [Lectures, Workshops](https://github.com/saj11/Summer-Schools/tree/master/Big%20Data%20Summer%20School#big-data-summer-school-2018)

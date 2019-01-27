@@ -5,7 +5,7 @@ subtitle: Learning Linear Algebra and Multivariable Calculus, Probabilities, Mac
 tags: [ml, math]
 ---
 
-#Instructors
+# Instructors
 
 * M.Sc. Ziga Emersic
 * M.Sc. Blaz Meden
@@ -21,6 +21,6 @@ tags: [ml, math]
 * Machine Learning: Supervised and Unsupervised Classification
 * Biomedical Image Processing and Biometrics with Machine Learning
 
-#Repository
+# Repository
 
 [Lectures, Workshops](https://github.com/saj11/Summer-Schools/tree/master/Big%20Data%20Summer%20School#big-data-summer-school-2018)
