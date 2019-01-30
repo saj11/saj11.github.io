@@ -21,12 +21,16 @@ navbar-links:
     - Cybersecurity: ""
     - Robotics: ""
     - Others: ""
-  Summer-Schools:
-    - HPC(High Performance Computer): "HPC-2017"
-    - Big Data: "BigData-2017"
-    - CIID Advanced IoT: "IoT-2018"
-    - Machine Learning: "MachineLearning-2018"
+  SummerSchools:
     - GPU-OpenACC: "GPU-2019"
+    - Machine Learning: "MachineLearning-2018"
+    - CIID Advanced IoT: "IoT-2018"
+    - Big Data: "BigData-2017"
+    - HPC(High Performance Computer): "HPC-2017"
+  Conference:
+    - Ccita 2018: ""
+    - CubaConf 2017: ""
+    
 #  About Me: "aboutme"
   
 # Image to show in the navigation bar
