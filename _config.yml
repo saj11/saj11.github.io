@@ -27,6 +27,8 @@ navbar-links:
     - IoT: "IoT-2018"
     - Big Data: "BigData-2017"
     - HPC: "HPC-2017"
+    - Others:
+      - Others: ""
   Conference:
     - Ccita: ""
     - CubaConf: ""
