@@ -22,8 +22,6 @@ navbar-links:
     - Robotics: ""
     - Others: ""
   SummerSchools:
-    Others:
-        - Others: ""
     - GPU: "GPU-2019"
     - Machine Learning: "MachineLearning-2018"
     - IoT: "IoT-2018"
